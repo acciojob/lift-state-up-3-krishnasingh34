@@ -1,1 +1,12 @@
-
+.parent{
+    background-color: green;
+    width: 600px;
+}
+.ChildComponent1{
+    background-color: brown;
+    width: 400px;
+}
+.ChildComponent2{
+    background-color: yellow;
+    width: 400px;
+}
